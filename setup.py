@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='morsecodeplus',
-    version='1.0.0',
+    version='1.0.1',
     author='Dany Srour',
     author_email='dany.srour@gmail.com',
     description='A package for encoding and decoding Morse code.',
