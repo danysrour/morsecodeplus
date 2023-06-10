@@ -3,7 +3,7 @@ import random
 import playsound
 
 
-class morsecodeplus:
+class MorseCodePlus:
     def __init__(self, preserve_original=False):
         self.morse_code = {
             'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....', 'I': '..',

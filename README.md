@@ -1,10 +1,10 @@
-# morsecodeplus
+# MorseCodePlus
 
-morsecodeplus is a Python package that provides functionality for encoding and decoding Morse code.
+MorseCodePlus is a Python package that provides functionality for encoding and decoding Morse code.
 
 ## Installation
 
-You can install morsecodeplus using pip:
+You can install MorseCodePlus using pip:
 
 ```shell
 pip install morsecodeplus
